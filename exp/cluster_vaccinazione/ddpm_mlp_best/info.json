@@ -1,0 +1,11 @@
+{
+    "name": "cluster_vaccinazione",
+    "id": "/home/PERSONALE/nicolas.derus2/downloads/--default",
+    "task_type": "multiclass",
+    "n_num_features": 7,
+    "n_cat_features": 18,
+    "train_size": 76556,
+    "val_size": 19140,
+    "test_size": 23925,
+    "n_classes": 4
+}
